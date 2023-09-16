@@ -1,3 +1,4 @@
+
 const input1 = document.getElementById ('input1')
 const submit = document.getElementById ('input2')
 const plusBtn = document.getElementById ('plus')
@@ -76,6 +77,5 @@ submitBtn.onclick = function(){
    
 
 }
-
 
 
