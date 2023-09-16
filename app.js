@@ -65,7 +65,7 @@ plusBtn.onclick = function () {
 
 
 submitBtn.onclick = function(){
-    const result = masive[masive.length-1].toFixed(6)
+    const result = +masive[masive.length-1].toFixed(6)
     printResult(result)
    
 
