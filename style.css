@@ -1,0 +1,25 @@
+.btn-r {
+    width: 60px;
+    height: 30px;
+    border-radius: 5px;
+}
+.ert{
+    width: 60px;
+    height: 30px;
+}
+.margin{
+    margin-top: 0px ;
+}
+
+ body{
+    min-width:650px 
+}  
+@media (max-width: 400px){
+    .calculator{
+        
+         width: 100%;
+         
+        
+    }
+}
+  
